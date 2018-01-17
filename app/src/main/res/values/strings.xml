@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Call Rejector</string>
+    <string name="TextView_content">This is a call rejector. \nAny call to emergency number will be hangup.</string>
+</resources>
